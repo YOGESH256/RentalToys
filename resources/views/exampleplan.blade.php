@@ -232,8 +232,7 @@
                             </div>
                             <div class="mt-4 mb-3"> <span class="text-uppercase text-muted brand">Plans</span>
                                 <h5 class="text-uppercase">{{$plan->plan_name}}</h5>
-                                <div class="price d-flex flex-row align-items-center"> <span class="act-price">$20</span>
-                                    <div class="ml-2"> <small class="dis-price">$59</small> <span>40% OFF</span> </div>
+                                <div class="price d-flex flex-row align-items-center"> 
                                 </div>
                             </div>
                             <p class="about"> plan_duration:  {{$plan->plan_duration}}</p>

@@ -202,10 +202,10 @@
                     </div>
                     <div class="align-items-center align-content-center col-md-3 border-left mt-1">
                         <div class="d-flex flex-row align-items-center">
-                            <h4 class="mr-1">$13.99</h4><span class="strike-text">$20.99</span>
+
                         </div>
                         <h6 class="text-success">Free shipping</h6>
-                        <div class="d-flex flex-column mt-4"><a href="details/{{$toy1->id}}"><button class="btn btn-primary btn-sm" type="button">Details &rarr;</button></a><button class="btn btn-outline-primary btn-sm mt-2" type="button">Add to wishlist</button></div>
+                        <div class="d-flex flex-column mt-4"><a href="details/{{$toy1->id}}"><button class="btn btn-outline-primary btn-sm mt-2" type="button">Details</button></a></div>
                     </div>
                 </div>
 
@@ -225,10 +225,10 @@
                     </div>
                     <div class="align-items-center align-content-center col-md-3 border-left mt-1">
                         <div class="d-flex flex-row align-items-center">
-                            <h4 class="mr-1">$14.99</h4><span class="strike-text">$20.99</span>
+
                         </div>
                         <h6 class="text-success">Free shipping</h6>
-                        <div class="d-flex flex-column mt-4"><a href="details/{{$toy2->id}}"><button class="btn btn-primary btn-sm" type="button">Details &rarr;</button></a><button class="btn btn-outline-primary btn-sm mt-2" type="button">Add to wishlist</button></div>
+                        <div class="d-flex flex-column mt-4"><a href="details/{{$toy2->id}}"><button class="btn btn-outline-primary btn-sm mt-2" type="button">Details</button></a></div>
                     </div>
                 </div>
 
@@ -249,10 +249,10 @@
                     </div>
                     <div class="align-items-center align-content-center col-md-3 border-left mt-1">
                         <div class="d-flex flex-row align-items-center">
-                            <h4 class="mr-1">$13.99</h4><span class="strike-text">$20.99</span>
+
                         </div>
                         <h6 class="text-success">Free shipping</h6>
-                        <div class="d-flex flex-column mt-4"><a href="details/{{$toy3->id}}"><button class="btn btn-primary btn-sm" type="button"> Details  &rarr;</button></a><button class="btn btn-outline-primary btn-sm mt-2" type="button">Add to wishlist</button></div>
+                        <div class="d-flex flex-column mt-4"><a href="details/{{$toy3->id}}"><button class="btn btn-outline-primary btn-sm mt-2" type="button">Details</button></a></div>
                     </div>
                 </div>
 

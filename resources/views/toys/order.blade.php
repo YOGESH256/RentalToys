@@ -122,7 +122,7 @@
                                    </td>
                                </tr>
                                <tr>
-                                   <td align="left" style="padding-top: 20px;">
+                                   <td align="left" style="padding-top: 70px;">
                                        <table cellspacing="0" cellpadding="0" border="0" width="100%">
                                            <tr>
                                                <td width="75%" align="left" bgcolor="#eeeeee" style="font-size:20px; line-height: 24px; padding: 10px;"> Order Confirmation</td>
@@ -141,23 +141,11 @@
                                                <td width="75%" align="left" style="font-size: 16px; line-height: 24px; padding: 5px 10px;">Payment</td>
                                                <td width="25%" align="left" style="font-size: 16px; line-height: 24px; padding: 5px 10px;">"Payment-Method" </td>
                                            </tr>
-                                           <tr>
-                                               <td width="75%" align="left" style="font-size: 16px;line-height: 24px; padding: 5px 10px;"> Shipping </td>
-                                               <td width="25%" align="left" style=" font-size: 16px; line-height: 24px; padding: 5px 10px;"> $5.00 </td>
-                                           </tr>
+
                                        </table>
                                    </td>
                                </tr>
-                               <tr>
-                                   <td align="left" style="padding-top: 20px;">
-                                       <table cellspacing="0" cellpadding="0" border="0" width="100%">
-                                           <tr>
-                                               <td width="75%" align="left" style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 800; line-height: 24px; padding: 10px; border-top: 3px solid #eeeeee; border-bottom: 3px solid #eeeeee;"> TOTAL </td>
-                                               <td width="25%" align="left" style="font-family: Open Sans, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: 800; line-height: 24px; padding: 10px; border-top: 3px solid #eeeeee; border-bottom: 3px solid #eeeeee;"> $115.00 </td>
-                                           </tr>
-                                       </table>
-                                   </td>
-                               </tr>
+
                            </table>
                        </td>
                    </tr>

@@ -307,14 +307,14 @@ margin-top: 150px !important;
                     <div class="col">
                         <h4><b>Shopping Cart</b></h4>
                     </div>
-                    <div class="col align-self-center text-right text-muted">3 items</div>
+
                 </div>
             </div>
             <div class="row border-top border-bottom">
                 <div class="row main align-items-center">
                     <div class="col-2"><img class="img-fluid" src="https://i.imgur.com/1GrakTl.jpg"></div>
                     <div class="col">
-                        <div class="row text-muted">Toys You Brought</div>
+                        <div class="row text-muted">Toys You Rented</div>
                         <div class="row">{{$toy->toy_name}}</div>
                     </div>
 
@@ -351,10 +351,13 @@ margin-top: 150px !important;
             <hr>
 
             <form1>
-                <p>SHIPPING</p> <select>
-                    <option class="text-muted" name = "plan1">Weekly-Plan- &dollar;5.00</option>
-                    <option class="text-muted"name = "plan2" >Monthly-Plan- &dollar;17.00</option>
-                    <option class="text-muted" name = "plan3">Quarterly-Plan- &dollar;45.00</option>
+                <p>Subscription Plans</p> <select>
+                    <option class="text-muted">Weekly-Plan-₹ 100
+                    </option>
+                    <option class="text-muted">Monthly-Plan-₹300
+                    </option>
+                    <option class="text-muted">Quarterly-Plan-₹600
+                    </option>
                 </select>
 
             </form1>
@@ -370,8 +373,7 @@ margin-top: 150px !important;
             @csrf
             @method('PUT')
             <div class="row" style="border-top: 1px solid rgba(0,0,0,.1); padding: 2vh 0;">
-                <div class="col">TOTAL PRICE</div>
-                <div class="col text-right">&euro; 137.00</div>
+
             </div><a href="/sucess"><button class="btn1">CHECKOUT</button></a>
           </div>
     </div>
